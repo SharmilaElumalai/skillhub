@@ -6,7 +6,7 @@
 
 1. **Clone the provided repository**
    ```bash
-   git clone https://github.com/Neerajvs32/Test1.git
+   git clone https://github.com/SharmilaElumalai/skillhub.git
    ```
 
 2. **Create your own GitHub repository**
@@ -30,10 +30,6 @@ This project is part of the **CertifyMe Full Stack Intern Assessment**. The repo
 - Connect frontend with backend
 - Store and retrieve data from database
 - Make the application fully functional
-
-### 🔗 Original Repository
-[https://github.com/Neerajvs32/Test1](https://github.com/Neerajvs32/Test1)
-
 ---
 
 ## ⚙️ Tech Stack
